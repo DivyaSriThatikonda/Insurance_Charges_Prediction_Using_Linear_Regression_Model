@@ -73,7 +73,7 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 
 **Results and Performance**
 
-The machine learning model, employing linear regression, was utilized to predict insurance charges for individuals. The model's performance was evaluated using the R2 score, which measures the proportion of the variance in the target variable that is predictable from the independent variables. The obtained R2 score of 84% signifies that the model explains 84% of the variability in insurance charges based on the features included in the analysis. This demonstrates the model's capability to accurately estimate insurance costs for individuals, providing valuable insights for insurance pricing and risk assessment..
+The machine learning model, employing linear regression, was utilized to predict insurance charges for individuals. The model's performance was evaluated using the R2 score, which measures the proportion of the variance in the target variable that is predictable from the independent variables. The obtained R2 score of 84% signifies that the model explains 84% of the variability in insurance charges based on the features included in the analysis. This demonstrates the model's capability to accurately estimate insurance costs for individuals, providing valuable insights for insurance pricing and risk assessment.
 
 
 

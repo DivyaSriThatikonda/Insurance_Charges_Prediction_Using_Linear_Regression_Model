@@ -1,7 +1,6 @@
 # Insurance_Charges_Prediction_Using_Linear_Regression_Model
 
 **Insurance Cost Prediction Project**
-
 **Project Overview**
 
 The Insurance Cost Prediction Project aims to develop a predictive model to estimate the insurance charges for individuals based on a variety of demographic, health, and lifestyle factors. By leveraging a comprehensive dataset, the project seeks to uncover the key drivers of insurance costs and provide actionable insights to optimize premium setting and risk assessment.
